@@ -1,0 +1,33 @@
+{
+  "commit_base": "4ba66afdfba50b572fc077b272d86692e6fc8df6",
+  "cambios_en_carpeta_de_trabajo": true,
+  "validacion": {
+    "compilacion": "0 errores, 0 advertencias",
+    "datos": 584,
+    "grupos_nube": 34,
+    "sql": {
+      "previas": 134,
+      "contenido_grande": 24,
+      "compacto": 67,
+      "incremental": 43
+    },
+    "solicitudes_REST_reales": 17,
+    "Windows_UI": "no ejecutada",
+    "Supabase_usuario": "no modificado"
+  },
+  "benchmark_sintetico": {
+    "SQLite_bytes": 42876928,
+    "paquete_v1_bytes": 78529437,
+    "paquete_v2_bytes": 39810772,
+    "renombrado_rpc_segundos": 3.126
+  },
+  "sha256": {
+    "MYG/MYG.Presupuestos.exe": "6b1aa8577273ada2d17ad872c2173caac2de622f8467662286cd0f16975499a2",
+    "MYG/MYG.Presupuestos.dll": "64966ff5f77788438417822bac27b91bcc2f70d58f60af2ae352f19f62cc01e4",
+    "MYG/MYG.Core.dll": "9da098eee55af39d51d60a8957e936d62c56dad3b661408c68bfb8598ff5ce0e",
+    "MYG/MYG.Colaboracion.dll": "b22ba5a5be4b71a3eb27a57590507057cae03c3fc5bbc1d0fe9796e99847c9ad",
+    "Supabase/20261022_paquete_compacto.sql": "ad59641a0b00175c8871653098be5ecfcd78f797a0c93c78c5a5efb1883ee01a",
+    "Supabase/20261023_sincronizacion_incremental.sql": "c0a45b4c5b3f7f73a874530694909c1f678462c709cffeab0dcc464d42d1a817",
+    "Codigo.zip": "f50df4214e0b3375b518617e002de35687585dcc6c44b139a946bac51d14f36d"
+  }
+}
